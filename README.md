@@ -6,6 +6,6 @@ These days, what I love the most, is trying to solve big problems in AI, the hig
 My AI interest (for now) is mostly focused around modern architectures and limits of deep learning.
 
 I recentely joined the OpenAI Parameter Golf competition: https://github.com/openai/parameter-golf, appearing on the official leaderboard, and am planning to engage in more competitions soon,
-like ARC-AGI and Keller Jordan's Modded Nano GPTm
+like ARC-AGI and Keller Jordan's Modded Nano GPT.
 
 You can find some of my music productions on my YT Channels :  https://youtube.com/@paerle?si=clJf-T2GauficDA2
